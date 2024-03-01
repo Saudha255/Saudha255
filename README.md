@@ -1,7 +1,9 @@
 
           Welcome to Saudha Ibrahim's GitHub Profile! 👋
 
-Hello there! I'm Saudha Ibrahim, a beginner in Python programming currently enrolled in the course "From Office Wizards to Python Programming". I'm passionate about learning and honing my skills in Python.
+Hello there! I'm Saudha Ibrahim, a beginner in Python programming.
+
+I am currently enrolled in the course "From Office Wizards to Python Programming" from @BanoQabil which is an educational inititiative from Al-Khidmat foundation. I'm passionate about learning and honing my skills in Python.
 
 🌱 **About Me:**  
 I'm eager to collaborate on Python projects that challenge me and provide opportunities to further polish my programming skills. I believe in continuous learning and growth, and I'm excited to contribute to meaningful projects.
